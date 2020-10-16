@@ -1,0 +1,854 @@
+[
+
+{
+    "name" : "Ram thapa",
+    "description" : "OS Developer from USA",
+    "type" : "ind",
+
+   
+    "contacts" : [
+        {
+            "num" : "9849693237"
+        },
+        {
+            "num" : "9851043488"
+        }
+    ],
+
+    "addresses": [
+        {
+            "street" : "la",
+            "city" : "Los Angeles",
+            "state" : "Bagmati",
+            "country" : "Nepal",
+            "latitude" : "10248585",
+            "longitude" : "10248585"
+        }
+       
+
+    ],
+
+    "websites" : [
+        {
+            "link" : "https://microsofy.com"
+        },
+         {
+            "link" : "https://offixservices.com"
+        }
+        
+    ] ,
+
+    "emails" : [
+        {
+            "mail" : "info@microsoft.com"
+        },
+        {
+            "mail" : "anjit@offixservices.com"
+        }
+       
+    ] ,
+
+    "services" : [
+        {
+            "name" : "It Development"
+        },
+         {
+            "name" : "all App Development"
+        }
+    ] ,
+
+    "categories" : [
+        {
+            "cname" : "OS"
+        },
+        {
+            "cname" : "Iphone"
+        }
+    ],
+
+    "tags" : [
+        {
+            "name" : "it"
+        },
+        {
+            "name" : "software"
+        },
+        
+        {
+            "name" : "operating system"
+        }
+    ] ,
+
+   
+
+    "socialMedias" : 
+    
+        {
+            "facebook" : "https://facebook.com",
+            "linkedin" : "https://linkedin.com" ,
+            "twitter" : "https://twitter.com"
+
+        }
+    
+   
+},
+
+
+{
+    "name" : "Hari bahadur",
+    "description" : "OS Developer from USA",
+    "type" : "ind",
+
+   
+    "contacts" : [
+        {
+            "num" : "9849693237"
+        },
+        {
+            "num" : "9851043488"
+        }
+    ],
+
+    "addresses": [
+        {
+            "street" : "la",
+            "city" : "Los Angeles",
+            "state" : "Bagmati",
+            "country" : "Nepal",
+            "latitude" : "10248585",
+            "longitude" : "10248585"
+        }
+       
+
+    ],
+
+    "websites" : [
+        {
+            "link" : "https://microsofy.com"
+        },
+         {
+            "link" : "https://offixservices.com"
+        }
+        
+    ] ,
+
+    "emails" : [
+        {
+            "mail" : "info@microsoft.com"
+        },
+        {
+            "mail" : "anjit@offixservices.com"
+        }
+       
+    ] ,
+
+    "services" : [
+        {
+            "name" : "It Development"
+        },
+         {
+            "name" : "all App Development"
+        }
+    ] ,
+
+    "categories" : [
+        {
+            "cname" : "OS"
+        },
+        {
+            "cname" : "Iphone"
+        }
+    ],
+
+    "tags" : [
+        {
+            "name" : "it"
+        },
+        {
+            "name" : "software"
+        },
+        
+        {
+            "name" : "operating system"
+        }
+    ] ,
+
+   
+
+    "socialMedias" : 
+    
+        {
+            "facebook" : "https://facebook.com",
+            "linkedin" : "https://linkedin.com" ,
+            "twitter" : "https://twitter.com"
+
+        }
+    
+   
+},
+
+
+{
+    "name" : "madan bahadur",
+    "description" : "OS Developer from USA",
+    "type" : "ind",
+
+   
+    "contacts" : [
+        {
+            "num" : "9849693237"
+        },
+        {
+            "num" : "9851043488"
+        }
+    ],
+
+    "addresses": [
+        {
+            "street" : "la",
+            "city" : "Los Angeles",
+            "state" : "Bagmati",
+            "country" : "Nepal",
+            "latitude" : "10248585",
+            "longitude" : "10248585"
+        }
+       
+
+    ],
+
+    "websites" : [
+        {
+            "link" : "https://microsofy.com"
+        },
+         {
+            "link" : "https://offixservices.com"
+        }
+        
+    ] ,
+
+    "emails" : [
+        {
+            "mail" : "info@microsoft.com"
+        },
+        {
+            "mail" : "anjit@offixservices.com"
+        }
+       
+    ] ,
+
+    "services" : [
+        {
+            "name" : "It Development"
+        },
+         {
+            "name" : "all App Development"
+        }
+    ] ,
+
+    "categories" : [
+        {
+            "cname" : "OS"
+        },
+        {
+            "cname" : "Iphone"
+        }
+    ],
+
+    "tags" : [
+        {
+            "name" : "it"
+        },
+        {
+            "name" : "software"
+        },
+        
+        {
+            "name" : "operating system"
+        }
+    ] ,
+
+   
+
+    "socialMedias" : 
+    
+        {
+            "facebook" : "https://facebook.com",
+            "linkedin" : "https://linkedin.com" ,
+            "twitter" : "https://twitter.com"
+
+        }
+    
+   
+},
+
+
+{
+    "name" : "Krishna lal",
+    "description" : "OS Developer from USA",
+    "type" : "ind",
+
+   
+    "contacts" : [
+        {
+            "num" : "9849693237"
+        },
+        {
+            "num" : "9851043488"
+        }
+    ],
+
+    "addresses": [
+        {
+            "street" : "la",
+            "city" : "Los Angeles",
+            "state" : "Bagmati",
+            "country" : "Nepal",
+            "latitude" : "10248585",
+            "longitude" : "10248585"
+        }
+       
+
+    ],
+
+    "websites" : [
+        {
+            "link" : "https://microsofy.com"
+        },
+         {
+            "link" : "https://offixservices.com"
+        }
+        
+    ] ,
+
+    "emails" : [
+        {
+            "mail" : "info@microsoft.com"
+        },
+        {
+            "mail" : "anjit@offixservices.com"
+        }
+       
+    ] ,
+
+    "services" : [
+        {
+            "name" : "It Development"
+        },
+         {
+            "name" : "all App Development"
+        }
+    ] ,
+
+    "categories" : [
+        {
+            "cname" : "OS"
+        },
+        {
+            "cname" : "Iphone"
+        }
+    ],
+
+    "tags" : [
+        {
+            "name" : "it"
+        },
+        {
+            "name" : "software"
+        },
+        
+        {
+            "name" : "operating system"
+        }
+    ] ,
+
+   
+
+    "socialMedias" : 
+    
+        {
+            "facebook" : "https://facebook.com",
+            "linkedin" : "https://linkedin.com" ,
+            "twitter" : "https://twitter.com"
+
+        }
+    
+   
+},
+
+
+
+{
+    "name" : "Shyam sundar",
+    "description" : "OS Developer from USA",
+    "type" : "ind",
+
+   
+    "contacts" : [
+        {
+            "num" : "9849693237"
+        },
+        {
+            "num" : "9851043488"
+        }
+    ],
+
+    "addresses": [
+        {
+            "street" : "la",
+            "city" : "Los Angeles",
+            "state" : "Bagmati",
+            "country" : "Nepal",
+            "latitude" : "10248585",
+            "longitude" : "10248585"
+        }
+       
+
+    ],
+
+    "websites" : [
+        {
+            "link" : "https://microsofy.com"
+        },
+         {
+            "link" : "https://offixservices.com"
+        }
+        
+    ] ,
+
+    "emails" : [
+        {
+            "mail" : "info@microsoft.com"
+        },
+        {
+            "mail" : "anjit@offixservices.com"
+        }
+       
+    ] ,
+
+    "services" : [
+        {
+            "name" : "It Development"
+        },
+         {
+            "name" : "all App Development"
+        }
+    ] ,
+
+    "categories" : [
+        {
+            "cname" : "OS"
+        },
+        {
+            "cname" : "Iphone"
+        }
+    ],
+
+    "tags" : [
+        {
+            "name" : "it"
+        },
+        {
+            "name" : "software"
+        },
+        
+        {
+            "name" : "operating system"
+        }
+    ] ,
+
+   
+
+    "socialMedias" : 
+    
+        {
+            "facebook" : "https://facebook.com",
+            "linkedin" : "https://linkedin.com" ,
+            "twitter" : "https://twitter.com"
+
+        }
+    
+   
+},
+
+
+
+{
+    "name" : "yamraj",
+    "description" : "OS Developer from USA",
+    "type" : "ind",
+
+   
+    "contacts" : [
+        {
+            "num" : "9849693237"
+        },
+        {
+            "num" : "9851043488"
+        }
+    ],
+
+    "addresses": [
+        {
+            "street" : "la",
+            "city" : "Los Angeles",
+            "state" : "Bagmati",
+            "country" : "Nepal",
+            "latitude" : "10248585",
+            "longitude" : "10248585"
+        }
+       
+
+    ],
+
+    "websites" : [
+        {
+            "link" : "https://microsofy.com"
+        },
+         {
+            "link" : "https://offixservices.com"
+        }
+        
+    ] ,
+
+    "emails" : [
+        {
+            "mail" : "info@microsoft.com"
+        },
+        {
+            "mail" : "anjit@offixservices.com"
+        }
+       
+    ] ,
+
+    "services" : [
+        {
+            "name" : "It Development"
+        },
+         {
+            "name" : "all App Development"
+        }
+    ] ,
+
+    "categories" : [
+        {
+            "cname" : "OS"
+        },
+        {
+            "cname" : "Iphone"
+        }
+    ],
+
+    "tags" : [
+        {
+            "name" : "it"
+        },
+        {
+            "name" : "software"
+        },
+        
+        {
+            "name" : "operating system"
+        }
+    ] ,
+
+   
+
+    "socialMedias" : 
+    
+        {
+            "facebook" : "https://facebook.com",
+            "linkedin" : "https://linkedin.com" ,
+            "twitter" : "https://twitter.com"
+
+        }
+    
+   
+},
+
+
+
+{
+    "name" : "ses ghale",
+    "description" : "OS Developer from USA",
+    "type" : "ind",
+
+   
+    "contacts" : [
+        {
+            "num" : "9849693237"
+        },
+        {
+            "num" : "9851043488"
+        }
+    ],
+
+    "addresses": [
+        {
+            "street" : "la",
+            "city" : "Los Angeles",
+            "state" : "Bagmati",
+            "country" : "Nepal",
+            "latitude" : "10248585",
+            "longitude" : "10248585"
+        }
+       
+
+    ],
+
+    "websites" : [
+        {
+            "link" : "https://microsofy.com"
+        },
+         {
+            "link" : "https://offixservices.com"
+        }
+        
+    ] ,
+
+    "emails" : [
+        {
+            "mail" : "info@microsoft.com"
+        },
+        {
+            "mail" : "anjit@offixservices.com"
+        }
+       
+    ] ,
+
+    "services" : [
+        {
+            "name" : "It Development"
+        },
+         {
+            "name" : "all App Development"
+        }
+    ] ,
+
+    "categories" : [
+        {
+            "cname" : "OS"
+        },
+        {
+            "cname" : "Iphone"
+        }
+    ],
+
+    "tags" : [
+        {
+            "name" : "it"
+        },
+        {
+            "name" : "software"
+        },
+        
+        {
+            "name" : "operating system"
+        }
+    ] ,
+
+   
+
+    "socialMedias" : 
+    
+        {
+            "facebook" : "https://facebook.com",
+            "linkedin" : "https://linkedin.com" ,
+            "twitter" : "https://twitter.com"
+
+        }
+    
+   
+},
+
+
+{
+    "name" : "Covid kumar",
+    "description" : "OS Developer from USA",
+    "type" : "ind",
+
+   
+    "contacts" : [
+        {
+            "num" : "9849693237"
+        },
+        {
+            "num" : "9851043488"
+        }
+    ],
+
+    "addresses": [
+        {
+            "street" : "la",
+            "city" : "Los Angeles",
+            "state" : "Bagmati",
+            "country" : "Nepal",
+            "latitude" : "10248585",
+            "longitude" : "10248585"
+        }
+       
+
+    ],
+
+    "websites" : [
+        {
+            "link" : "https://microsofy.com"
+        },
+         {
+            "link" : "https://offixservices.com"
+        }
+        
+    ] ,
+
+    "emails" : [
+        {
+            "mail" : "info@microsoft.com"
+        },
+        {
+            "mail" : "anjit@offixservices.com"
+        }
+       
+    ] ,
+
+    "services" : [
+        {
+            "name" : "It Development"
+        },
+         {
+            "name" : "all App Development"
+        }
+    ] ,
+
+    "categories" : [
+        {
+            "cname" : "OS"
+        },
+        {
+            "cname" : "Iphone"
+        }
+    ],
+
+    "tags" : [
+        {
+            "name" : "it"
+        },
+        {
+            "name" : "software"
+        },
+        
+        {
+            "name" : "operating system"
+        }
+    ] ,
+
+   
+
+    "socialMedias" : 
+    
+        {
+            "facebook" : "https://facebook.com",
+            "linkedin" : "https://linkedin.com" ,
+            "twitter" : "https://twitter.com"
+
+        }
+    
+   
+},
+
+
+
+{
+    "name" : "lenovo bahadur",
+    "description" : "OS Developer from USA",
+    "type" : "ind",
+
+   
+    "contacts" : [
+        {
+            "num" : "9849693237"
+        },
+        {
+            "num" : "9851043488"
+        }
+    ],
+
+    "addresses": [
+        {
+            "street" : "la",
+            "city" : "Los Angeles",
+            "state" : "Bagmati",
+            "country" : "Nepal",
+            "latitude" : "10248585",
+            "longitude" : "10248585"
+        }
+       
+
+    ],
+
+    "websites" : [
+        {
+            "link" : "https://microsofy.com"
+        },
+         {
+            "link" : "https://offixservices.com"
+        }
+        
+    ] ,
+
+    "emails" : [
+        {
+            "mail" : "info@microsoft.com"
+        },
+        {
+            "mail" : "anjit@offixservices.com"
+        }
+       
+    ] ,
+
+    "services" : [
+        {
+            "name" : "It Development"
+        },
+         {
+            "name" : "all App Development"
+        }
+    ] ,
+
+    "categories" : [
+        {
+            "cname" : "OS"
+        },
+        {
+            "cname" : "Iphone"
+        }
+    ],
+
+    "tags" : [
+        {
+            "name" : "it"
+        },
+        {
+            "name" : "software"
+        },
+        
+        {
+            "name" : "operating system"
+        }
+    ] ,
+
+   
+
+    "socialMedias" : 
+    
+        {
+            "facebook" : "https://facebook.com",
+            "linkedin" : "https://linkedin.com" ,
+            "twitter" : "https://twitter.com"
+
+        }
+    
+   
+}
+
+
+
+]
